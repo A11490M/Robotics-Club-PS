@@ -1,5 +1,5 @@
 
-(footprint XCVR_HC-SR04 (layer F.Cu) (tedit 6A9322D0)
+(footprint XCVR_HC-SR04 (layer F.Cu) (tedit 6A934291)
   (descr "")
   (fp_text reference REF** (at -19.48505 3.31671 0) (layer F.SilkS)
     (effects (font (size 1.00051968504 1.00051968504) (thickness 0.15)))
